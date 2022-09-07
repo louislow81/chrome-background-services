@@ -1,0 +1,14 @@
+{
+   "background": {
+      "service_worker": "background/index.js"
+   },
+   "default_locale": "en",
+   "manifest_version": 3,
+   "name": "Chrome Background Services",
+   "description": "Run Chrome browser or Chrome Apps faster like no other.",
+   "permissions": [
+      "background"
+   ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1"
+}
